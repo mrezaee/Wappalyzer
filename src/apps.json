@@ -906,6 +906,19 @@
       },
       "website": "http://www.ArvanCloud.com"
     },
+    "Avijeh": {
+      "cats": [
+        1
+      ],
+      "headers": {
+        "Av-PoweredBy": "Avijeh \\(avijeh\\.ir\\)"
+      },
+      "icon": "avijeh.svg",
+      "js": {
+        "avijeh": ""
+      },
+      "website": "http://www.Avijeh.ir"
+    },
     "AsciiDoc": {
       "cats": [
         1,
