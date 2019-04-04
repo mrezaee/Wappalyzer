@@ -13120,7 +13120,20 @@
       },
       "icon": "Zipkin.png",
       "website": "https://zipkin.io/"
-    }
+    },
+    "Avijeh": {
+      "cats": [
+        1
+      ],
+      "headers": {
+        "Av-PoweredBy": "Avijeh \\(avijeh\\.ir\\)"
+      },
+      "icon": "Avijeh.svg",
+      "js": {
+        "Avijeh": ""
+      },
+      "website": "http://www.Avijeh.ir"
+    },
   },
   "categories": {
     "1": {
